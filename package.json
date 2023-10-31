@@ -1,0 +1,23 @@
+{
+  "name": "tiles-in-vue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mapbox/tile-cover": "^3.0.2",
+    "@mapbox/tilebelt": "^1.0.2",
+    "@vueuse/core": "^10.5.0",
+    "maplibre-gl": "^3.5.2",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "prettier": "^3.0.3",
+    "vite": "^4.4.5"
+  }
+}
